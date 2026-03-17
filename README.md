@@ -21,7 +21,7 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION :
-![lvdt observation](https://github.com/user-attachments/assets/8aaaeada-57e5-49ff-ada0-489107bcaa30)
+![lvdt obs](https://github.com/user-attachments/assets/7a9e8ba0-0fff-4da1-af11-4d2d145eb440)
 
 
 MODEL GRAPH :
